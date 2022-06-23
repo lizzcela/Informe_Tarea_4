@@ -172,9 +172,61 @@ Posición 3:
 
 ![image](https://user-images.githubusercontent.com/105623628/175350196-6618d2f7-abef-4cde-9a3c-02fec5a29430.png)
 
+34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kΩ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA. 
 
+![image](https://user-images.githubusercontent.com/105623628/175350700-da06c426-b118-48e2-bba4-0918853b9e5d.png)
 
+Con carga
 
+![image](https://user-images.githubusercontent.com/105623628/175350845-b3750edf-9275-4bce-b3db-dd522c72641c.png)
+
+SECCIÓN 7–4 Efecto de carga de un voltímetro
+
+36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes
+de intervalo.
+
+(a) 0.5 V (b) 1 V (c) 5 V (d) 50 V (e) 100 V (f) 1000 V
+
+![image](https://user-images.githubusercontent.com/105623628/175351031-38d864bc-5e27-44ca-9022-65f62b06cbc8.png)
+
+38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+
+![image](https://user-images.githubusercontent.com/105623628/175351221-8bc23178-f52a-439d-92a4-de4c773ebc59.png)
+
+![image](https://user-images.githubusercontent.com/105623628/175351356-9b5c80e1-511b-441e-871c-180082121a49.png)
+
+(a) Se utiliza el rango 0,5V para medir 0,383V.
+
+![image](https://user-images.githubusercontent.com/105623628/175352683-49dfbba6-278f-4d11-9664-ec753679aeb7.png)
+
+SECCIÓN 7–5 Redes en escalera
+
+40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-7
+
+![image](https://user-images.githubusercontent.com/105623628/175352792-7b5c696e-6184-4694-81fa-37cde6dcd6b9.png)
+
+![image](https://user-images.githubusercontent.com/105623628/175353105-7b24ebcc-b380-4d2c-a8cf-f4326f2d5225.png)
+
+![image](https://user-images.githubusercontent.com/105623628/175353153-1a4ce09c-d5df-4bf1-8d5d-d5a43493198c.png)
+
+42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+
+![image](https://user-images.githubusercontent.com/105623628/175353237-27dec2ad-69c8-47d9-8be6-f26f2ee67ffe.png)
+
+Las corrientes se encontrarn en el problema 41.
+
+![image](https://user-images.githubusercontent.com/105623628/175353452-9a3f4e8e-83c0-45dd-a3cb-c6598d6b2959.png)
+
+44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones: 
+
+(a) Interruptor SW2 conectado a +12 V y los demás conectados a tierra 
+(b) Interruptor SW1 conectado a +12 V y los demás conectados a tierra
+
+![image](https://user-images.githubusercontent.com/105623628/175353759-925a45a2-a205-4cb1-9c6f-13a77de8b647.png)
+
+![image](https://user-images.githubusercontent.com/105623628/175354093-d046954e-8978-4cb7-9558-b4d45d8fc982.png)
+
+SECCIÓN 7–6 El puente Wheatstone
 
 
 
