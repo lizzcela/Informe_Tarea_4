@@ -243,7 +243,9 @@ SECCIÓN 7–6 El puente Wheatstone
 
 ![image](https://user-images.githubusercontent.com/105623628/176572655-d13a1bfc-8102-4a81-ab42-13e77ea8bf3e.png)
 
-![Uploading image.png…]()
+
+
+
 
 
 
