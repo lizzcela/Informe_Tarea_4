@@ -147,9 +147,9 @@ Con una resistencia de 10KΩconectada desde la toma A a tierra:
 
 Con una carga de 100KΩ
 
-![image](https://user-images.githubusercontent.com/105623628/175349358-f5823072-35ca-4bb3-8a83-534d6d201649.png)
+![image](https://user-images.githubusercontent.com/105623628/176728475-8a4b2a2a-1ff7-482b-852c-c237dfd825dd.png)
 
-30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
+30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
 
 ![image](https://user-images.githubusercontent.com/105623628/175349534-357be22d-1cfc-433c-84b7-62611adf0884.png)
 
@@ -228,11 +228,6 @@ Las corrientes se encontrarn en el problema 41.
 
 SECCIÓN 7–6 El puente Wheatstone
 
-46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV  18 kÆ y R2/R4  0.02. ¿Cuál es RX?
-
-
-20.2 RESOLUCIÓN DEL CAPÍTULO 8:
-
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV=18 kΩ y R2/R4=0.02. ¿Cuál es RX?
 
 ![image](https://user-images.githubusercontent.com/105623628/176572742-46b809ea-d832-4300-859f-918e78e46dc2.png)
@@ -243,9 +238,94 @@ SECCIÓN 7–6 El puente Wheatstone
 
 ![image](https://user-images.githubusercontent.com/105623628/176572655-d13a1bfc-8102-4a81-ab42-13e77ea8bf3e.png)
 
+![image](https://user-images.githubusercontent.com/105623628/176727646-e504f19c-eeb6-4cad-bc52-470280cef808.png)
 
+SECCIÓN 7–7 Localización de fallas
 
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
 
+![image](https://user-images.githubusercontent.com/105623628/176728778-c374d72f-8564-4c26-805f-e643ff8e345d.png)
+
+El circuito lo volvemos a dibujar 
+
+![image](https://user-images.githubusercontent.com/105623628/176730374-c7244136-1a9c-45e7-87f8-9bcd21785303.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176730436-f2f3cace-200e-4c37-803b-122b411543ae.png)
+
+Ambos medidores son correctoa 
+
+52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
+
+![image](https://user-images.githubusercontent.com/105623628/176731605-73edb399-4c16-4228-9a51-30ab359b3b3c.png)
+
+-  Redibujando el circuito:
+
+![image](https://user-images.githubusercontent.com/105623628/176732019-654182b5-abe7-4c1d-9dfe-820d6772e325.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176732086-7961dbcc-4122-4763-a4c9-9937923c23a4.png)
+
+La lectura del medidor de 81,8V es incorrecta .
+
+La falla mas probable es una resistencia de 12 KΩ  abierta . Esto hara que el voltaje en el punto A sea más alto de lo que debería ser, para verificar  calculamos VA asumiendo una resistencia de 12KΩ abierto.
+
+![image](https://user-images.githubusercontent.com/105623628/176732249-489381b3-a81c-458c-8d36-2c33adb27f95.png)
+
+Los medidores son correctos 
+
+54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+
+![image](https://user-images.githubusercontent.com/105623628/176733921-2126f328-daea-467f-bc84-6eb70db9e8fa.png)
+
+Si R2 se abre, VA=15V. VB=0V Y VC=0V
+
+2.2 RESOLUCIÓN DEL CAPÍTULO 8:
+
+SECCIÓN 8–3 Conversiones de fuente
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![image](https://user-images.githubusercontent.com/105623628/176734474-bdd47611-c2df-4f05-ab7a-a9515fda9858.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176734520-d7d06bcc-7325-4751-8c72-9b62efcf4c2e.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3. 
+
+![image](https://user-images.githubusercontent.com/105623628/176734686-8541df3a-0784-4f33-b219-e4bd3dbb6bad.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176734739-edc8495a-04b8-4443-a9cd-48576622d785.png)
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/105623628/176734807-a3661a85-ba41-4e49-93b8-5a7ad19120d8.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176734847-1f5b52b8-e45e-4bc2-8bf4-c24661b11c0f.png)
+
+SECCIÓN 8–4 El teorema de superposición
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos
+de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/105623628/176734965-a2a534f1-5a15-4f5b-8ebc-66032c67b03b.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176738184-0273ca7a-5462-4192-a504-5aca84207054.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/105623628/176738458-47b11dfa-2c3c-4170-887f-83fa5bed80a4.png)
+
+(a) Corriente a travéz de Rl debido a la fuente de 1A :
+
+![image](https://user-images.githubusercontent.com/105623628/176738800-6dea8251-3c28-4584-9c19-149abfcb6dcf.png) (abajo)
+
+La corriente a travéz  RL, debido a la fuente  de 2V, es cero debido a la resistencia infinita (abierta) se la fuente de 1A.
+
+![image](https://user-images.githubusercontent.com/105623628/176740096-20c55a30-791a-465d-a161-c30ce900f0b9.png)
+
+Corriente total atravéz de RL:
+
+![image](https://user-images.githubusercontent.com/105623628/176740273-b2760ccb-32c9-4968-9dc5-ef5f8816d746.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176740490-aa74c8f7-283a-49be-b0f9-2c36ef4a9bd9.png)
 
 
 
@@ -257,7 +337,6 @@ SECCIÓN 7–6 El puente Wheatstone
 - Con referencia a los circuitos serie - paralelo se tiene que para realizar un análisis correcto se debe primero identificar y diferenciar las partes del circuito que se encuentran en paralelo y las que se encuentran en serie, posterior a esto se puede aplicar los conocimientos antes adquiridos para calcule la resistencia, corriente y voltaje totales. Por otro lado para analizar los divisores de voltaje se debe de tener en cuenta , que estos producen un voltaje de salida que su valor surgió de la forma en que los empleemos, en otras palabras determinar si el divisor es bipolar o se basa en la corriente de carga y la corriente remanente.
 - Las conversiones de fuente dentro de los circuitos son de dos tipos, el primero la conversión de una fuente de voltaje en una fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero. El segundo tipo es la conversión de una fuente de corriente en una fuente de voltaje, en este caso la corriente de la fuente se debe multiplicar por la resistencia interna de la fuente, que es la mayoría de los casos se le considera infinita.
 - El teorema de superposición para el análisis de circuitos serie - paralelo es efectivo porque permite reducir un circuito grande en una más simple, con esto se facilita el análisis del circuito y se puede implementar cualquier método conocido anteriormente para poder calcular la intensidad de corriente, el voltaje total del circuito y la resistencia total. Cabe recalcar que aquí implementamos las conversiones de fuentes para poder reducir en circuito, también el divisor de corriente en la mayoría de los casos y se calculan las resistencias equivalentes aplicando las fórmulas de resistencia total para circuitos tanto en serie como en paralelo.
-
 
 6. BIBLIOGRAFÍA 
 
