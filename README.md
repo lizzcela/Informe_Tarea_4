@@ -327,6 +327,106 @@ Corriente total atravéz de RL:
 
 ![image](https://user-images.githubusercontent.com/105623628/176740490-aa74c8f7-283a-49be-b0f9-2c36ef4a9bd9.png)
 
+(b) La corriente a través de RL, debido a la fuente de 40V es cero debido a la resistencia (corto) de la funte de 60V.
+
+![image](https://user-images.githubusercontent.com/105623628/176762681-76bc3ce0-aaaf-4f7d-98ae-1d972c9c74a6.png)
+
+La corriente a través de RL debido a la fuente de 0.5V es cero debido a la resistencia cero de los 60V de la fuente.
+
+![image](https://user-images.githubusercontent.com/105623628/176763901-355c624a-47b6-48c1-8178-1214c951f65d.png)
+
+Corriente a través de RL debido a la fuente de 60V.
+
+![image](https://user-images.githubusercontent.com/105623628/176763875-c84d13f1-bb93-41f3-8030-661617c943f0.png)
+
+Corriente total a través de RL:
+
+![image](https://user-images.githubusercontent.com/105623628/176763759-5b0c4f63-e523-48f2-8714-b7b4b2b8c45a.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176763582-7d84c79d-5df5-4d05-a710-764b90c6b51c.png)
+
+12. Repita el problema 11 si R2 es de 10 kΩ.
+
+![image](https://user-images.githubusercontent.com/105623628/176764493-761d94a9-0562-42f5-a1a0-bdefd99d9ecd.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176764546-8574e7a8-a024-469a-804b-2cb2f06550e7.png)
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
+![image](https://user-images.githubusercontent.com/105623628/176764642-c57c775d-d58d-4655-b775-3c7fa440349f.png)
+
+Circuitos propuestos para la solución:
+
+![image](https://user-images.githubusercontent.com/105623628/176770947-a6fb1b55-3118-4d70-8b89-87695a344b19.png)
+
+SW1 Cerrado en el circuito (a):
+
+![image](https://user-images.githubusercontent.com/105623628/176767521-d3a96027-b1f1-4a6b-b731-5025cafc3532.png)
+
+SW1 Y SW2 Cerrados en el circuito (b):
+
+- Corriente de la funte de 12V (fuente de 6V puesta a cero)
+
+![image](https://user-images.githubusercontent.com/105623628/176767803-fe4afa4d-7fb2-45cd-98e3-dcabb6135d62.png)
+
+- Corriente de la fuente de 6V (funete de 12 puesta en cero)
+
+![image](https://user-images.githubusercontent.com/105623628/176768227-9d560866-da1b-433c-a0c8-e8c017534907.png)
+
+SW1 Y SW2 Y SW3 Cerrados en el circuito (c):
+
+- Corriente de la fuente 12V (fuentes de 6 V y 9V puesto a cero)
+
+![image](https://user-images.githubusercontent.com/105623628/176769073-ec6a5eea-d453-430a-a9ce-baf9e1088399.png)
+
+- Corriente de la fuente 6V (fuentes de 9V y 12V puesto a cero)
+
+![image](https://user-images.githubusercontent.com/105623628/176769656-9f82e695-82d2-4371-9c4c-8866e839c54d.png)
+
+- Corriente de la fuente de 9V (fuente de 6V y 12V puesto a cero)
+
+![image](https://user-images.githubusercontent.com/105623628/176770159-81228d58-6ff9-44e1-a393-e7f64417da06.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
