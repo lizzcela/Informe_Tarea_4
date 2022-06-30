@@ -228,11 +228,22 @@ Las corrientes se encontrarn en el problema 41.
 
 SECCIÓN 7–6 El puente Wheatstone
 
-
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV  18 kÆ y R2/R4  0.02. ¿Cuál es RX?
 
 
 20.2 RESOLUCIÓN DEL CAPÍTULO 8:
 
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV=18 kΩ y R2/R4=0.02. ¿Cuál es RX?
+
+![image](https://user-images.githubusercontent.com/105623628/176572742-46b809ea-d832-4300-859f-918e78e46dc2.png)
+
+48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60o C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
+
+![image](https://user-images.githubusercontent.com/105623628/176572535-777fb0ab-cc93-4772-a333-dd0f238f65fd.png)
+
+![image](https://user-images.githubusercontent.com/105623628/176572655-d13a1bfc-8102-4a81-ab42-13e77ea8bf3e.png)
+
+![Uploading image.png…]()
 
 
 
